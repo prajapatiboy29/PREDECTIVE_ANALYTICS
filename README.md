@@ -1,1 +1,1 @@
-# PREDECTIVE_ANALYTICS
+A Python-based predictive analytics project that uses historical sales data to forecast future trends using Linear Regression. The project includes data preprocessing, visualization, model training, performance evaluation, and future sales prediction.
